@@ -35,3 +35,6 @@ An IT project management simulation demonstrating project planning, stakeholder 
 
 MSc IT Project Management  
 Teesside University
+
+BSC (EDU) Industrial and Technical Education
+University of Benin
