@@ -1,16 +1,37 @@
-## Hi there 👋
+# Edgar Nwaojei
 
-<!--
-**Edgars-Projects/Edgars-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc IT Project Management student with strong interest in cybersecurity, risk management, and IT governance.
 
-Here are some ideas to get you started:
+I build practical projects that demonstrate real-world IT project planning, cybersecurity risk assessment, and digital transformation initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+- IT Project Management
+- Cybersecurity Risk Assessment
+- Risk Management
+- Stakeholder Analysis
+- Project Planning
+- Incident Response Documentation
+
+
+## Projects
+
+### Cybersecurity Risk Assessment Toolkit
+A toolkit designed to help small organisations assess cybersecurity risks and implement basic security controls.
+
+### IT Project Cloud Migration
+An IT project management simulation demonstrating project planning, stakeholder analysis, risk management, and project scheduling for a cloud migration initiative.
+
+
+## Currently Learning
+
+- Cybersecurity fundamentals
+- Security risk management
+- Project governance frameworks
+
+
+## Education
+
+MSc IT Project Management  
+Teesside University
