@@ -1,6 +1,6 @@
 # Edgar Nwaojei
 
-MSc IT Project Management graduate with a strong interest in cybersecurity, risk management and IT governance, and hands-on experience building AI systems in Python.
+IT Project Management | Cybersecurity & Risk | AI Automation | Python
 
 I build practical projects that demonstrate real-world IT project planning, cybersecurity risk assessment, data analysis and working software.
 
