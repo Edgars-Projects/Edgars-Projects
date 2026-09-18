@@ -13,28 +13,30 @@ I build practical projects that demonstrate real-world IT project planning, cybe
 - Project Planning
 - Incident Response Documentation
 - Python
+- SQL
 - AI and LLM Systems
-- Data Analysis (Jupyter)
+- Data Analysis (pandas, Jupyter)
+- Power BI
 
 ## Projects
 
-### Self-Hosted AI Assistant
+### [Self-Hosted AI Assistant](https://github.com/Edgars-Projects/Self-hosted-ai-assistant)
 An agentic AI assistant built in Python with local LLMs, 70+ tools, persistent memory and scheduling, delivered through Telegram. Includes automated tests and CI.
 
-### Cybersecurity Risk Assessment Toolkit
+### [NHS A&E Waiting Times Analysis](https://github.com/Edgars-Projects/nhs-ae-waiting-times-analysis)
+Data analysis of NHS A&E waiting times using Python, SQL and Power BI.
+
+### [Cybersecurity Risk Assessment Toolkit](https://github.com/Edgars-Projects/cybersecurity-risk-assessment-toolkit)
 A toolkit designed to help small organisations assess cybersecurity risks and implement basic security controls.
 
-### IT Project Cloud Migration
+### [IT Project Cloud Migration](https://github.com/Edgars-Projects/it-project-cloud-migration)
 An IT project management simulation demonstrating project planning, stakeholder analysis, risk management and project scheduling for a cloud migration initiative.
 
-### Network Security Assessment
+### [Network Security Assessment](https://github.com/Edgars-Projects/network-security-assessment)
 A basic network security assessment and vulnerability analysis.
 
-### IT Project Management Dashboard
+### [IT Project Management Dashboard](https://github.com/Edgars-Projects/IT-Project-Management-Dashboard)
 An Excel-based dashboard for tracking tasks, risks, issues and project milestones.
-
-### NHS A&E Waiting Times Analysis
-Data analysis of NHS A&E waiting times using Python, SQL and Power BI.
 
 ## Current Focus
 
@@ -44,6 +46,6 @@ Data analysis of NHS A&E waiting times using Python, SQL and Power BI.
 
 ## Education
 
-**MSc IT Project Management**, Teesside University
+**MSc IT Project Management** (Distinction), Teesside University
 
 **BSc (Ed) Industrial and Technical Education**, University of Benin
