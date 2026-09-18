@@ -34,7 +34,7 @@ A basic network security assessment and vulnerability analysis.
 An Excel-based dashboard for tracking tasks, risks, issues and project milestones.
 
 ### NHS A&E Waiting Times Analysis
-Data analysis of NHS A&E waiting times using Python and Jupyter Notebook.
+Data analysis of NHS A&E waiting times using Python, SQL and Power BI.
 
 ## Current Focus
 
